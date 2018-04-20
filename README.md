@@ -1,2 +1,2 @@
 # brayano.github.io
-Personal website.
+In this repository, we build a personal website using jemdocs.

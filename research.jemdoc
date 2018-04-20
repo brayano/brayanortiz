@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{research.html}
+= Research
+Noah Simon and I are have worked on finite dimensional approximations to nonparametric penalized regression problems. By approximating penalties on a mesh, our regression approach makes many difficult problems tractable by providing calculable and efficient solutions. We used entropy-based bounds and empirical process ideas to describe properties of our regression method. Our latest efforts have been on implementing readily available approximations to total variation problem solutions for any number of features. 
+
+== Total Variation Denoising
+We are developing an R package, "MultivarTV," that implements efficient procedures written in C++ for fitting approximate solutions to multivariate total variation denoising problems. The algorithm uses the alternating direction method of multipliers (ADMM), as described by Boyd et al. (2011). Please see the repository for [https://github.com/brayano/MultivarTV MultivarTV] for more details.
+
+== Nonparametric Regression in General
+
+== Immuno-oncology
