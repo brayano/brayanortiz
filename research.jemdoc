@@ -1,8 +1,10 @@
 # jemdoc: menu{MENU}{research.html}
 = Research
-Noah Simon and I have worked on finite dimensional approximations to nonparametric penalized regression problems. By approximating penalties on a mesh, our regression approach makes many difficult problems tractable by providing calculable and efficient solutions. We used entropy-based bounds and empirical process ideas to describe properties of our regression method. Our latest efforts have been on implementing readily available approximations to total variation problem solutions for any number of features. 
 
 == Total Variation Denoising
+Noah Simon and I have worked on finite dimensional approximations to nonparametric penalized regression problems. By approximating penalties on a mesh, our regression approach makes many difficult problems tractable by providing calculable and efficient solutions. We used entropy-based bounds and empirical process ideas to describe properties of our regression method. Our latest efforts have been on implementing readily available approximations to total variation problem solutions for any number of features. 
+
 We are developing an R package, "MultivarTV," that implements efficient procedures written in C++ for fitting approximate solutions to multivariate total variation denoising problems. The algorithm uses the alternating direction method of multipliers (ADMM), as described by Boyd et al. (2011). Please see the repository for [https://github.com/brayano/MultivarTV MultivarTV] for more details.
 
-== Nonparametric Regression in General
+== Reinforcement Learning
+Amitabh Sinha and I have collaborated on using image transformations of physical transportation networks to learn future network structure. Network connectivity is a classical operations research problem, where the approach is typically more global: decide which pairs of facilities will have trucks while incorporating constraints across the network such as facility specific capacities or truck capacities or speed objectives. However, these global approaches are difficult to scale and are not robust to changing network realities such as weather changes, resource changes (truck companies going down), or pandemics in the extreme cases. We would prefer to have a network that is adaptive to these emergent trends. Our approach is to learn the features that govern connectivity between pairs of facilities and reinforce the likelihood of connection based on observed reality via Thompson Sampling. This work is currently in progress. 
