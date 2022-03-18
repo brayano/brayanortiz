@@ -4,23 +4,26 @@
 ~~~
 {}{img_left}{portrait.png}{425px}{400px}
 
-I am a Research Scientist at Amazon in the Modeling and Optimization team under Global Delivery Services. Currently, I am on the Network Science team, where we develop solutions to help coordinate and optimize both short- and long-term operations in the outbound transportation network from inventory to a customer's doorstep. I completed my PhD in the [https://www.biostat.washington.edu/ Department of Biostatistics] at the [https://www.washington.edu/ University of Washington].
+I am a Research Scientist at Amazon in the Modeling and Optimization team under Global Delivery Services. Currently, I am a member of the Data Science team and am responsible for experimental design and validation of new processes for last mile delivery stations as well as productionizing last mile operational inputs. Previously, I was on the Network Science team, where we developed solutions to help coordinate and optimize both short- and long-term operations in the outbound transportation network from inventory to a customer's doorstep. I completed my PhD in the [https://www.biostat.washington.edu/ Department of Biostatistics] at the [https://www.washington.edu/ University of Washington].
 
 Dissertation Work: In collaboration with [http://faculty.washington.edu/nrsimon/ Noah Simon], we developed finite approximations to infinite dimensional functional problems. These finite approximations can be applied to a wide variety of problems, which include signal denoising, spatial modeling, and epidemiology. 
 
 I also work as a statistical consultant. In the past, I have worked with [http://cicsonusa.org/ Sonora Cancer Research Center]. We worked on determining the validity of immunotherapy treatments in relapse prevention for highly recurrent tumors. I am also a member of the **Rainy Day Statistics** consulting group (just started). 
 
-Check out my [https://github.com/brayano GitHub] and [https://www.linkedin.com/in/brayan-ortiz LinkedIn]. Contact me via e-mail at brayanGOKU[at\]uw\[dot\]edu (remove brackets and any mention of Saiyans). 
+Check out my [https://github.com/brayano GitHub] and [https://www.linkedin.com/in/brayan-ortiz LinkedIn]. Contact me via e-mail at brayanGOKU[at\]uw\[dot\]edu (remove brackets and any mention of Goku).
 
 For a PDF version of my CV, click [OrtizBrayan_resume.pdf here]. 
 ~~~
 
 == Research Interests
 - Reinforcement learning, statistical learning, Thompson sampling
+- Graph representation learning
 - Nonparametric regression, low and high dimensions
 - Convex optimization
 - Clinical trials
 - Statistical methods for immunooncology
+
+A recently published paper is from the work I did with Jim Hughes on Bayesian estimation of adherence during a clinical trial (see [https://pubmed.ncbi.nlm.nih.gov/35080038/ here]).
 
 For some specifics, see my [research.html Research page] and my CV.
 
