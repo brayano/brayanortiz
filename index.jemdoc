@@ -4,9 +4,9 @@
 ~~~
 {}{img_left}{portrait.png}{425px}{400px}
 
-I am an Applied Scientist at Amazon in the Modeling and Optimization team under Global Delivery Services. Currently, I am a member of the Data Science team and am responsible for experimental design and validation of new processes for last mile delivery stations as well as productionizing last mile operational inputs. Previously, I was on the Network Science team, where we developed solutions to help coordinate and optimize both short- and long-term operations in the outbound transportation network from inventory to a customer's doorstep. I completed my PhD in the [https://www.biostat.washington.edu/ Department of Biostatistics] at the [https://www.washington.edu/ University of Washington].
+I am a Senior Applied Scientist at Amazon in the Modeling and Optimization team under Global Delivery Services. Currently, I am a member of the Data Science team and am responsible for experimental design and validation of new processes for last mile delivery stations as well as productionizing last mile operational inputs. Previously, I was on the Network Science team, where we developed solutions to help coordinate and optimize both short- and long-term operations in the outbound transportation network from inventory to a customer's doorstep. In my projects, I lead teams of 1-5 scientists and engineers, while serving as the main point of contact with leadership.
 
-Dissertation Work: In collaboration with [http://faculty.washington.edu/nrsimon/ Noah Simon], we developed finite approximations to infinite dimensional functional problems. These finite approximations can be applied to a wide variety of problems, which include signal denoising, spatial modeling, and epidemiology. 
+Dissertation Work: I completed my PhD in the [https://www.biostat.washington.edu/ Department of Biostatistics] at the [https://www.washington.edu/ University of Washington]. In collaboration with [http://faculty.washington.edu/nrsimon/ Noah Simon], we developed finite approximations to infinite dimensional functional problems. These finite approximations can be applied to a wide variety of problems, which include signal denoising, spatial modeling, and epidemiology.
 
 I also work as a statistical consultant. In the past, I have worked with [http://cicsonusa.org/ Sonora Cancer Research Center]. We worked on determining the validity of immunotherapy treatments in relapse prevention for highly recurrent tumors. I am also a member of the **Rainy Day Statistics** consulting group (just started). 
 
@@ -18,6 +18,7 @@ For a PDF version of my CV, click [OrtizBrayan_resume.pdf here].
 == Research Interests
 - Reinforcement learning, statistical learning, Thompson sampling
 - Graph representation learning
+- Network optimization under uncertainty
 - Nonparametric regression, low and high dimensions
 - Convex optimization
 - Clinical trials
